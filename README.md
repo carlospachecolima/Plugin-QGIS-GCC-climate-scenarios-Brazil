@@ -67,3 +67,33 @@ The v1.7.0 workflow was validated end-to-end in production (live WorldClim v2.1 
 ├── 1_cenarios_climaticos/   # <var>/historico/WorldClim/... and <var>/<period>/<model>/<SSP>/...
 ├── 2_correcao_delta/        # Bias-corrected scenarios and correcao_vies/ reports
 └── 3_tendencia_normais/     # Observed vs. projected trend tables and reports
+
+Each release includes SHA256SUMS.txt (per-file hashes inside the plugin) and a .sha256 checksum for the installable archive:FileSHA-256mcgbrasil_climate_scenarios_v1.7.0.zipb8f52b5fd6d4dfd11a3f6bbf5b68041684fe4025d0d873b7d9c3f421fbd23983
+
+Authors
+Carlos Eduardo Pacheco Lima — Embrapa Hortaliças, Brasília, DF, Brazil — ORCID: 0000-0002-6975-8560
+
+Mariana Rodrigues Fontenelle — Embrapa Hortaliças, Brasília, DF, Brazil — ORCID: 0000-0001-8318-5933
+
+Marcos Brandão Braga — Embrapa Hortaliças, Brasília, DF, Brazil — ORCID: 0000-0002-0896-8062
+
+Ítalo Moraes Rocha Guedes — Embrapa Hortaliças, Brasília, DF, Brazil
+
+Juscimar da Silva — Embrapa Hortaliças, Brasília, DF, Brazil
+
+Fábio Akiyoshi Suinaga — Embrapa Hortaliças, Brasília, DF, Brazil
+
+Scientific References
+Fontenelle, M. R., Amorim, J. R. A., Cruz, M. A. S., & Lima, C. E. P. (2025). Prompt engineering and prompt chaining in artificial intelligence: tools for mapping future climate scenarios as mechanisms of adaptation and climate justice and just transition promotion. Revista DCS, 22(83), 01–17. https://doi.org/10.54899/dcs.v22i83.3456
+
+Lima, C. E. P., Fontenelle, M. R., Braga, M. B., Silva, K. M. N. B., Rodrigues, G. S. S., & Silva, K. C. R. (2025). Clima, morfometria e erosividade em unidade hidrográfica do Cerrado do DF: implicações socioambientais e direitos difusos. Revista Aracê, 7(7), 39480–39503. https://doi.org/10.56238/arev7n7-250
+
+Lima, C. E. P., et al. (2026). The Unfolding Desert. Land Degradation & Development. https://doi.org/10.1002/ldr.70808
+
+Disclaimer
+Climate scenarios are model projections and carry inherent uncertainties; users should evaluate multi-model ensembles and validate outputs against local observations before supporting decision-making. The authors and Embrapa are not responsible for how the outputs are used.
+
+License
+This software is licensed under the BSD 3-Clause License. See LICENSE for details.
+
+
